@@ -5,8 +5,6 @@ This Java application allows users to manage employee data stored in a relationa
 The `Employee` entity contains fields such as `id`, `name`, `position`, `salary`, and `hire_date`. The `EmployeeData` class interacts with the database, performing operations like adding, updating, retrieving, and deleting employee records.
 
 ## How to Run the Program
-
-### Prerequisites:
 1. Install java 
 2. Install a database such as PostgreSQL
 3. Create a database named `employee` and create the `employee`.
